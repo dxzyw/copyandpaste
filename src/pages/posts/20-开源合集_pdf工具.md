@@ -15,3 +15,7 @@
 ## 2024-08-03  对比pdf文件内容的小工具
 
 [3.3k star，推荐一个开源小工具 (qq.com)](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247492723&idx=1&sn=ca1941af162d65548065de9df10d4cd2&chksm=fdb6106fcac1997954303e495ee94ab035cd3e51b26a324eed59d0303407f3511052aac0303f&token=1264986599&lang=zh_CN#rd)
+
+##2024-10-20 Maroto 是一个开源的 Go 语言库，用于创建 PDF 文档。
+
+[2k star,pdf还可以这样玩！](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495414&idx=1&sn=1298013f79c98a9a7489213c2d3a3d9e&chksm=fdb61aeacac193fc759a6ee8b399a39296a83dc7e31972ece5dd1b5610b6f3510e38fe2539f3&token=1783337456&lang=zh_CN#rd)

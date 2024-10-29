@@ -38,3 +38,20 @@
 ## 2024-09-02  Docker-OSX 可以许用户在 Docker 容器中运行 macOS 虚拟机。
 
 [43.4k star，超强开源软件推荐！](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247493885&idx=1&sn=498284520786d0a7f034d866dab0f020&chksm=fdb61ce1cac195f7b173ad9766fc906d7c329ad9ce3461cc28da9effe13245c0bd0976a92849&token=1264986599&lang=zh_CN#rd)
+
+## 2024-10-13 Maccy 是一个为 macOS 设计的轻量级剪贴板管理器。
+
+[12.6k star，超强开源小工具来袭](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495331&idx=1&sn=975f17dcc816df2bbdb726602961a18f&chksm=fdb61abfcac193a99dbcd55c86b77fe3a3924dbedf8c945b26a470604cf6493c06f86c8e999d&token=1783337456&lang=zh_CN#rd)
+
+
+## 2024-10-14 EasyFind 是一款由 DEVONtechnologies 开发的免费文件搜索工具，专为 macOS 用户设计。
+
+[绝了！mac用户小工具推荐，聊胜于无吧！](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495359&idx=1&sn=36da8f2a7ac41df3b007ceefd8af62b6&chksm=fdb61aa3cac193b588fcf10adb84938f70fd3c8515da3485ee08a2406905612cd9904c5bca72&token=1783337456&lang=zh_CN#rd)
+
+## 2024-10-16 Timer App 是由 Michael Villar 开发的一款简单而高效的计时器应用，专为 macOS 用户设计。
+
+[2.5k star,推荐一个小玩意，它真的很小](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495374&idx=1&sn=8ab8f7ac54b4f73cc9a10c365739d83f&chksm=fdb61ad2cac193c4b919f45444df2e0b17662a07a4cd0781054a49fb821c1d27f328eef72028&token=1783337456&lang=zh_CN#rd)
+
+## 2024-10-29 FSNotes 是一款专为 macOS 和 iOS 设计的现代化笔记管理工具。
+
+[6.4k star,推荐一款不错的笔记软件](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495556&idx=1&sn=197ee89fff471770f0d8d6ce0ec75fc7&chksm=fdb61b98cac1928e14070b50be9c9e7ff0efe6a85a5077ddfc6472185e64263eaecb46c97384&token=1783337456&lang=zh_CN#rd)

@@ -41,3 +41,7 @@
 ## 2024-08-07 windows环境下的所有包管理器
 
 [全面、高效、强大，这款开源工具爱了](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247492744&idx=1&sn=c24c37723720149416ed32c7a699fd4e&chksm=fdb61094cac19982c7e6a8019c2daad2f9b635bd873dd6d722710586386ad745092f51ed4911&token=1264986599&lang=zh_CN#rd) 
+
+## 2024-10-08 Bulk Crap Uninstaller（简称 BCUninstaller 或 BCU）是一款免费的开源软件，专为批量卸载大量不需要的应用程序而设计。
+
+[11.1k star,推荐一款开源必备神器](https://mp.weixin.qq.com/s?__biz=MzU4MjY3Mzc3OQ==&mid=2247495277&idx=1&sn=21226aee2392e88a7a565f76f9af5433&chksm=fdb61a71cac193673135ca0a45af8763e17d78723798321146db474e1788c9c2688cb3b6b27b&token=1783337456&lang=zh_CN#rd)
