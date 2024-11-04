@@ -1,34 +1,4 @@
-# 开源周刊
+# ��Դ�ܿ�
 
-> 记录工程师 的不枯燥生活，欢迎订阅，也欢迎 [推荐](https://github.com/dxzyw/higithub/discussions/22) 你的好东西，Fork 自用可见 [开发文档](https://github.com/dxzyw/weekly/blob/main/Deploy.md)，期待你玩得开心~
+> ��¼����ʦ �Ĳ����������ӭ���ģ�Ҳ��ӭ [�Ƽ�](https://github.com/dxzyw/copyandpaste/discussions/22) ��ĺö�����Fork ���ÿɼ� [�����ĵ�](https://github.com/dxzyw/weekly/blob/main/Deploy.md)���ڴ�����ÿ���~
 
-* [第 01 期 - 开源合集_好用的工具](https://higithub.herotops.xyz/posts/01-开源合集_好用的工具)
-* [第 02 期 - 开源合集_好玩的工具](https://higithub.herotops.xyz/posts/02-开源合集_好玩的工具)
-* [第 03 期 - 开源合集_终端工具](https://higithub.herotops.xyz/posts/03-开源合集_终端工具)
-* [第 04 期 - 开源合集_运维工具](https://higithub.herotops.xyz/posts/04-开源合集_运维工具)
-* [第 05 期 - 开源合集_数据库工具](https://higithub.herotops.xyz/posts/05-开源合集_数据库工具)
-* [第 06 期 - 开源合集_监控工具](https://higithub.herotops.xyz/posts/06-开源合集_监控工具)
-* [第 07 期 - 开源合集_网络工具](https://higithub.herotops.xyz/posts/07-开源合集_网络工具)
-* [第 08 期 - 开源合集](https://higithub.herotops.xyz/posts/08-开源合集-学习工具)
-* [第 09 期 - 开源合集_编辑工具](https://higithub.herotops.xyz/posts/09-开源合集_编辑工具)
-* [第 10 期 - 开源合集_效率工具](https://higithub.herotops.xyz/posts/10-开源合集_效率工具)
-* [第 11 期 - 开源合集_电子书](https://higithub.herotops.xyz/posts/11-开源合集_电子书)
-* [第 12 期 - 开源合集_音乐](https://higithub.herotops.xyz/posts/12-开源合集_音乐)
-* [第 13 期 - 开源合集](https://higithub.herotops.xyz/posts/13-开源合集-视频工具)
-* [第 14 期 - 开源合集_测试工具](https://higithub.herotops.xyz/posts/14-开源合集_测试工具)
-* [第 15 期 - 开源合集_浏览器插件](https://higithub.herotops.xyz/posts/15-开源合集_浏览器插件)
-* [第 16 期 - 开源合集_开发工具](https://higithub.herotops.xyz/posts/16-开源合集_开发工具)
-* [第 17 期 - 开源合集_mac工具](https://higithub.herotops.xyz/posts/17-开源合集_mac工具)
-* [第 18 期 - 开源合集](https://higithub.herotops.xyz/posts/18-开源合集-程序员购房)
-* [第 19 期 - 开源合集_图像处理](https://higithub.herotops.xyz/posts/19-开源合集_图像处理)
-* [第 20 期 - 开源合集_pdf工具](https://higithub.herotops.xyz/posts/20-开源合集_pdf工具)
-* [第 21 期 - 开源合集_下载工具](https://higithub.herotops.xyz/posts/21-开源合集_下载工具)
-* [第 22 期 - 开源合集_开源网盘](https://higithub.herotops.xyz/posts/22-开源合集_开源网盘)
-* [第 23 期 - 开源合集_AI工具](https://higithub.herotops.xyz/posts/23-开源合集_AI工具)
-* [第 24 期 - 开源合集_devops工具](https://higithub.herotops.xyz/posts/24-开源合集_devops工具)
-* [第 25 期 - 开源合集_windows调优工具](https://higithub.herotops.xyz/posts/25-开源合集_windows调优工具)
-* [第 26 期 - 开源合集_有趣的项目](https://higithub.herotops.xyz/posts/26-开源合集_有趣的项目)
-* [第 27 期 - 开源合集_python项目](https://higithub.herotops.xyz/posts/27-开源合集_python项目)
-* [第 28 期 - 开源合集_go项目](https://higithub.herotops.xyz/posts/28-开源合集_go项目)
-* [第 29 期 - 开源合集_app推荐](https://higithub.herotops.xyz/posts/29-开源合集_app推荐)
-* [第 30 期 - 开源合集_k8s相关](https://higithub.herotops.xyz/posts/30-开源合集_k8s相关)
