@@ -23,7 +23,7 @@ if __name__ == "__main__":
                 file_path = urllib.parse.quote(name)
                 old_title = name.split('.md')[0]
                 url = f'https://copyandpaste.herotops.xyz/posts/{old_title}'
-                title = f'第 {old_title.split("-")[0]} 期 - {old_title.split("-")[1]}'
+                title = f'{old_title.split("-")[0]}'
                 readme_md = f'* [{title}]({url})\n'
                 num = int(old_title.split('-')[0])
 
