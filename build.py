@@ -23,9 +23,9 @@ if __name__ == "__main__":
                 file_path = urllib.parse.quote(name)
                 old_title = name.split('.md')[0]
                 url = f'https://copyandpaste.herotops.xyz/posts/{old_title}'
-                title = f'{old_title.split("-")[0]}'
+                title = f'{old_title.split(".")[0]}'
                 readme_md = f'* [{title}]({url})\n'
-                num = int(old_title.split('-')[0])
+                num = int(old_title.split('.')[0])
 
                 if index < 5:
                     modified = fetch_ci_time(f'/src/pages/posts/{file_path}')
